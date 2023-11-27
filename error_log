@@ -1,0 +1,127 @@
+[06-Jun-2019 17:52:44 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/techsava/public_html/riflopos/sma/third_party/MPDF/mpdf.php on line 24132
+[06-Jun-2019 17:53:05 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/techsava/public_html/riflopos/sma/third_party/MPDF/mpdf.php on line 24180
+[03-Jun-2020 09:53:57 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 09:54:02 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 09:56:19 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 09:58:35 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 09:58:42 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 09:58:51 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:00:14 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:02:40 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:09:57 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:13:24 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:13:26 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:13:45 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:15:29 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:18:28 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:19:03 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:19:59 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:20:22 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:20:50 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:45:12 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:51:27 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:51:34 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:51:36 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:51:45 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:51:49 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:53:57 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 10:54:02 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 14:00:42 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 14:01:24 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 14:08:52 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 14:09:09 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 14:10:49 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 14:11:14 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysqli_init() in /home/cedarcli/public_html/pos/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[03-Jun-2020 14:31:12 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysql_connect() in /home/cedarcli/public_html/pos/system/database/drivers/mysql/mysql_driver.php on line 136
+[03-Jun-2020 14:31:15 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysql_connect() in /home/cedarcli/public_html/pos/system/database/drivers/mysql/mysql_driver.php on line 136
+[03-Jun-2020 15:05:51 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysql_connect() in /home/cedarcli/public_html/pos/system/database/drivers/mysql/mysql_driver.php on line 136
+[03-Jun-2020 15:05:57 Africa/Nairobi] PHP Fatal error:  Call to undefined function mysql_connect() in /home/cedarcli/public_html/pos/system/database/drivers/mysql/mysql_driver.php on line 136
+[05-Jun-2020 11:14:33 Africa/Nairobi] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/cedarcli/public_html/pos/sma/third_party/MPDF/mpdf.php on line 1519
+[05-Jun-2020 11:15:24 Africa/Nairobi] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/cedarcli/public_html/pos/sma/third_party/MPDF/mpdf.php on line 1519
+[05-Jun-2020 11:17:23 Africa/Nairobi] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/cedarcli/public_html/pos/sma/third_party/MPDF/mpdf.php on line 1519
+[05-Jun-2020 11:18:05 Africa/Nairobi] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/cedarcli/public_html/pos/sma/third_party/MPDF/mpdf.php on line 1519
+[05-Jun-2020 11:22:51 Africa/Nairobi] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/cedarcli/public_html/pos/sma/third_party/MPDF/mpdf.php on line 1519
+[05-Jun-2020 11:42:13 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/cedarcli/public_html/pos/sma/third_party/MPDF/classes/ttfontsuni.php on line 4376
+[05-Jun-2020 11:43:34 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/cedarcli/public_html/pos/sma/third_party/MPDF/classes/ttfontsuni.php on line 4376
+[05-Jun-2020 11:46:24 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/cedarcli/public_html/pos/sma/third_party/MPDF/classes/ttfontsuni.php on line 4376
+[05-Jun-2020 11:51:03 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/cedarcli/public_html/pos/sma/third_party/MPDF/classes/ttfontsuni.php on line 4376
+[05-Jun-2020 11:51:15 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/cedarcli/public_html/pos/sma/third_party/MPDF/classes/ttfontsuni.php on line 4376
+[06-Jun-2020 10:29:07 Africa/Nairobi] PHP Fatal error:  Call to undefined function ImageCreate() in /home/cedarcli/public_html/pos/sma/third_party/phpqrcode/qrimage.php on line 74
+[06-Jun-2020 10:29:16 Africa/Nairobi] PHP Fatal error:  Call to undefined function ImageCreate() in /home/cedarcli/public_html/pos/sma/third_party/phpqrcode/qrimage.php on line 74
+[06-Jun-2020 10:29:43 Africa/Nairobi] PHP Fatal error:  Call to undefined function ImageCreate() in /home/cedarcli/public_html/pos/sma/third_party/phpqrcode/qrimage.php on line 74
+[10-Jun-2020 11:58:52 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_Encryption::decode() in /home/cedarcli/public_html/pos/sma/libraries/Sma.php on line 208
+[10-Jun-2020 12:01:46 Africa/Nairobi] PHP Fatal error:  Call to a member function decode() on null in /home/cedarcli/public_html/pos/sma/libraries/Sma.php on line 208
+[30-Jun-2020 11:57:25 Africa/Nairobi] PHP Fatal error:  Call to undefined method Reports_model::getAgeingCustomer() in /home/cedarcli/public_html/pos/sma/controllers/Reports.php on line 2665
+[30-Jun-2020 11:57:54 Africa/Nairobi] PHP Fatal error:  Call to undefined method Reports_model::getAgeingCustomer() in /home/cedarcli/public_html/pos/sma/controllers/Reports.php on line 2665
+[04-Dec-2020 10:53:54 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[04-Dec-2020 10:53:57 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[04-Dec-2020 11:07:48 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[04-Dec-2020 11:07:56 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[04-Dec-2020 11:08:24 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[15-Dec-2020 12:06:19 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[15-Dec-2020 12:09:48 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[15-Dec-2020 12:19:23 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[15-Dec-2020 12:21:33 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[15-Dec-2020 12:21:36 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[15-Dec-2020 12:21:41 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[15-Dec-2020 12:23:21 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[15-Dec-2020 12:23:24 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[15-Dec-2020 12:23:25 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[15-Dec-2020 12:23:37 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Dec-2020 09:07:14 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Dec-2020 09:07:19 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Dec-2020 09:07:26 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Dec-2020 09:07:45 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Dec-2020 09:07:51 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[19-Dec-2020 11:27:38 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[19-Dec-2020 11:27:45 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[03-Feb-2021 17:12:32 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Feb-2021 10:27:14 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Feb-2021 10:27:28 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Feb-2021 10:28:05 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Feb-2021 10:29:35 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Feb-2021 10:32:42 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[18-Feb-2021 12:07:14 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[19-Feb-2021 08:53:31 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[19-Feb-2021 08:53:37 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[19-Feb-2021 08:53:39 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[19-Feb-2021 08:53:41 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[19-Feb-2021 08:53:44 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[19-Feb-2021 09:10:59 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[19-Feb-2021 15:07:21 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[20-Feb-2021 14:35:22 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[22-Feb-2021 13:24:46 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[22-Feb-2021 13:25:15 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[22-Feb-2021 13:25:30 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[22-Feb-2021 13:25:55 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[22-Feb-2021 13:27:36 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[22-Feb-2021 13:27:55 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[22-Feb-2021 13:28:23 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'view_complete' (T_STRING), expecting ';' or '{' in /home/cedarcli/public_html/cpos/sma/controllers/Pos.php on line 6
+[23-Jul-2021 12:38:25 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:30 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:37 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:38 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:38 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:39 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:39 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:40 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:54 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:55 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:56 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:38:56 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[23-Jul-2021 12:39:04 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[30-Jul-2021 09:22:42 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[30-Jul-2021 09:22:51 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[30-Jul-2021 09:22:59 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[30-Jul-2021 09:23:10 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[30-Jul-2021 09:23:19 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[11-Aug-2021 11:10:05 Africa/Nairobi] PHP Fatal error:  Call to a member function getInvoiceByID() on null in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 2239
+[11-Aug-2021 11:10:13 Africa/Nairobi] PHP Fatal error:  Call to a member function getInvoiceByID() on null in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 2239
+[17-Aug-2021 10:20:38 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[17-Aug-2021 10:20:40 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[17-Aug-2021 10:28:14 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[17-Aug-2021 10:28:16 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[17-Aug-2021 10:28:24 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[17-Aug-2021 10:30:00 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products::mPermissions() in /home/cedarcli/public_html/cpos/sma/controllers/Products.php on line 1216
+[05-Jan-2023 10:26:22 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 262144000 bytes exhausted (tried to allocate 72 bytes) in /home/cedarcli/public_html/cpos/sma/third_party/MPDF/mpdf.php on line 24156
+[18-Jan-2023 17:27:43 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '<' in /home/cedarcli/public_html/cpos/themes/default/views/sales/view.php on line 392

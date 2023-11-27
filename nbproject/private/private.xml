@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/models/Pos_model.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/themes/default/views/purchases/pdf.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/themes/default/assets/js/purchases.js</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/themes/default/views/purchases/index.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/models/Purchases_model.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/themes/default/assets/js/sales.js</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/controllers/Sales.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/themes/default/views/pos/add.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/controllers/Reports.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/controllers/Purchases.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/models/Companies_model.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/controllers/Payments.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/themes/default/views/purchases/view.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/controllers/Suppliers.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/models/Sales_model.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/themes/default/views/purchases/add.php</file>
+            <file>file:/C:/xampp/htdocs/eastbiteposii/sma/controllers/Pos.php</file>
+        </group>
+    </open-files>
+</project-private>

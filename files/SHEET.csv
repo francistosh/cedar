@@ -1,0 +1,7 @@
+Code,Category Code,Name,Unit,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6
+PR-11,C1,BIO,litre,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-1,C2,BROOM,658,800,800,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-2,C3,BROOM,658,740,740,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-3,C1,BROOM,900,1000,1000,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-4,C1,BROOM,285,350,350,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-5,C1,BROOM,900,1000,1000,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6

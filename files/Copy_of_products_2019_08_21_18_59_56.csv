@@ -1,0 +1,7 @@
+Product Code,Product Name,Category Code,Unit,Cost,Price,Alert Quantity,Tax Rate,Tax Method,Sub category Code,Product Variants,Product Custom Field 1,Product Custom Field 2,Product Custom Field 3,Product Custom Field 4,Product Custom Field 5,Product Custom Field 6
+PR-1,C2,BIO,LTRS,658,800,20,NT,Inclusive,,Red|Blue|Black|White|,800,CF2,CF3,CF4,CF5,CF6
+PR-11,C1,BIO,LTRS,56,90,20,NT,Inclusive,,Red|Blue|Black|White|,100,CF2,CF3,CF4,CF5,CF6
+PR-2,C3,BIO,LTRS,658,740,20,NT,Inclusive,,Red|Blue|Black|White|,740,CF2,CF3,CF4,CF5,CF6
+PR-3,C1,BIO,LTRS,900,1000,20,NT,Inclusive,,Red|Blue|Black|White|,1000,CF2,CF3,CF4,CF5,CF6
+PR-4,C1,BIO,LTRS,285,350,20,NT,Inclusive,,Red|Blue|Black|White|,350,CF2,CF3,CF4,CF5,CF6
+PR-5,C1,BIO,LTRS,900,1000,20,NT,Inclusive,,Red|Blue|Black|White|,1000,CF2,CF3,CF4,CF5,CF6
